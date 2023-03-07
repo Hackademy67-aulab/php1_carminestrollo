@@ -110,3 +110,5 @@ print_r($dumbo);
 
 $shereKan->presentazioneTiger();
 print_r($shereKan);
+
+?>
